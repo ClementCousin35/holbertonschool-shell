@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d chmod exec 111=x "holbertonschool-shell"
+find . -type d chmod exec 111=x "holbertonschool-shell"
