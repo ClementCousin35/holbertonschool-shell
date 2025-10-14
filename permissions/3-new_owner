@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello cp /tmp
+sudo chown betty hello
