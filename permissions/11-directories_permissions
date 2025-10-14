@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d /holberton-shell chmod exec 111
+find . -type d "holberton-shell" chmod exec 111
