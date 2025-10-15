@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u -l guillaume chown vincent hello
+chown -R --from=500 guillaume/vincent/hello
