@@ -1,2 +1,2 @@
 #!/bin/bash
-filename= \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+tail -n 1 '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
