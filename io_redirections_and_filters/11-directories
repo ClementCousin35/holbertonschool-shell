@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -type -f . ..
+find . -type da | wc . .. 
