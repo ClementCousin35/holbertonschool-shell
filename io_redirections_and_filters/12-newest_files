@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -d -cmin +1 | wc -l
+find . -type d -cmin +1 | wc -l
