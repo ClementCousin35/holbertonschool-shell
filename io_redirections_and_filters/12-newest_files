@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -printf sort | wc -l
+ls -tp | grep -v / | head -n 10
