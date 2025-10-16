@@ -1,2 +1,2 @@
 #!/bin/bash
-find -atime +1 type -d | wc -l
+find . -type -d -cmin +1 | wc -l
