@@ -1,2 +1,2 @@
 #!/bin/bash
-m
+export POWER="0" DIVIDE="0" | echo $(($POWER/$DIVIDE))
