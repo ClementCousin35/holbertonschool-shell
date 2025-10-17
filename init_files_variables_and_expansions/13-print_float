@@ -1,2 +1,2 @@
 #!/bin/bash
-export $1=NUM="0" $2=NUM="98" $3=NUM="3.14"| echo $(($1+$2+$3))
+export NUM="$NUM"| echo $(($NUM+2.31))
