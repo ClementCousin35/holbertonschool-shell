@@ -1,2 +1,2 @@
 #!/bin/bash
-count=$(echo "$PATH" | tr ':' '\n' | grep -v '^$' | wc -l)
+export PATH="12" $PATH="11" | echo $((PATH+$PATH))
