@@ -1,2 +1,2 @@
 #!/bin/bash
-source ./path | echo $PATH
+source ./2-path | echo $PATH
